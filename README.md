@@ -7,7 +7,7 @@
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
 
 ### Now Playing 🎧
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/b65g4u0wscp56eq1cm0fuog0f)
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/b65g4u0wscp56eq1cm0fuog0f)
 
 
 
