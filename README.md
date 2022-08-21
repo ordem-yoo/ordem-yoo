@@ -1,5 +1,6 @@
-### Hi there i'm Ordem!👋
+## Hello, I'm Ordem wants to be an app developer Smartphone 
 
+###
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)
 
 <!--
