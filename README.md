@@ -1,4 +1,4 @@
-## Hello, I'm Ordem wants to be an app developer📱 
+## Hello, I'm Ordem wants to be an app developer 🧑🏽‍💻📱 
 
 ###
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)
