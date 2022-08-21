@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<1014#1919>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<#1919>)
 
 
 <!--
