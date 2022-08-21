@@ -1,7 +1,7 @@
 ## Hello! I'm Ordem wants to be an app developer 🧑🏽‍💻📱 
 
 
-### Discord Profile       
+### Discord
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)
 
 ### Spotify
