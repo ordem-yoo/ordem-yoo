@@ -34,14 +34,14 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
-### Github stats
+## Github stats
 ![Ordem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ordem-yoo&show_icons=true&theme=midnight-purple&count_private=true)
 
 
-### Discord
+## Discord
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
 
-### I really like music 🎧
+## I really like music 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b65g4u0wscp56eq1cm0fuog0f&cover_image=true&theme=novatorem&bar_color=7f3ace&bar_color_cover=false)](https://open.spotify.com/user/b65g4u0wscp56eq1cm0fuog0f)
 
 <!--
