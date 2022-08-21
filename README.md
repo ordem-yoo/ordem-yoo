@@ -1,5 +1,7 @@
 ## Hello! I'm Ordem wants to be an app dev 🧑🏽‍💻📱 
 
+![Ordem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ordem&show_icons=true&theme=midnight-purple&count_private=true)
+
 
 ### Discord
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
