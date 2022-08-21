@@ -1,4 +1,4 @@
-## Hello! I'm Ordem wants to be an app developer 🧑🏽‍💻📱 
+## Hello! I'm Ordem wants to be an app dev 🧑🏽‍💻📱 
 
 
 ### Discord
