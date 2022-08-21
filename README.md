@@ -7,8 +7,7 @@
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
 
 ### I really like music 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b65g4u0wscp56eq1cm0fuog0f&cover_image=true&theme=novatorem&bar_color=7f3ace&bar_color_cover=true)](https://open.spotify.com/user/b65g4u0wscp56eq1cm0fuog0f)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b65g4u0wscp56eq1cm0fuog0f&cover_image=true&theme=novatorem&bar_color=7f3ace&bar_color_cover=false)](https://open.spotify.com/user/b65g4u0wscp56eq1cm0fuog0f)
 
 <!--
 **ordem-yoo/ordem-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
