@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<839432085856583731>)
-
-
 
 <!--
 **ordem-yoo/ordem-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
