@@ -80,7 +80,7 @@
 
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=ordem-yoo&label=Profile%20views&color=0e75b6&style=flat" alt="ordem-yoo" />
+<img align= "right" src="https://komarev.com/ghpvc/?username=ordem-yoo&label=Profile%20views&color=0e75b6&style=flat" alt="ordem-yoo" />
 <!--
 **ordem-yoo/ordem-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
