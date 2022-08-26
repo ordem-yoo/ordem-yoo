@@ -2,7 +2,10 @@
 
 <h4>Hello! I'm Ordem wants to be an app dev 🧑🏽‍💻📱  </h4>
 <br>
-I'm currently learning <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="15" height="15"/>
+<h4>I'm currently learning <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a> &nbsp; and &nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/> </a> </h4>
+
+<h4> I'm interested in&nbsp; <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> </a> &nbsp; and &nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/></a></h4>
+
 <br>
 <br>
 <br>
@@ -11,7 +14,7 @@ I'm currently learning <a href="https://flutter.dev" target="_blank" rel="norefe
 ## Github stats
 <br>
 <div>
-<img width= "420" src="https://github-readme-stats.vercel.app/api?username=ordem-yoo&show_icons=true&theme=midnight-purple&count_private=true" />
+<img width= "420" src="https://github-readme-stats.vercel.app/api?username=ordem-yoo&show_icons=true&theme=midnight-purple&count_private=false" />
 <img width= "420" src="https://github-readme-streak-stats.herokuapp.com/?user=ordem-yoo&" alt="ordem-yoo" />
 </div>
 <br>
