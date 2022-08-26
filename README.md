@@ -1,5 +1,8 @@
-## Hello! I'm Ordem wants to be an app dev 🧑🏽‍💻📱  
+## Introduce
+
+<h4>Hello! I'm Ordem wants to be an app dev 🧑🏽‍💻📱  </h4>
 <br>
+I'm currently learning <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="15" height="15"/>
 <br>
 <br>
 <br>
@@ -11,6 +14,15 @@
 <img width= "420" src="https://github-readme-streak-stats.herokuapp.com/?user=ordem-yoo&" alt="ordem-yoo" />
 <img width= "420" src="https://github-readme-stats.vercel.app/api?username=ordem-yoo&show_icons=true&theme=midnight-purple&count_private=true" />
 </div>
+<br>
+<br>
+
+
+## My Gist
+<br>
+
+
+<a href="https://gist.github.com/ordem-yoo> <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0c26bfa5-c8eb-4017-b345-7ca963de5ff7/gist.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220826%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220826T162930Z&X-Amz-Expires=86400&X-Amz-Signature=2ce33d1e4c4a5de6774d8766a30fd6dc2b9e20ab74353f0697094237ffc4d637&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22gist.png%22&x-id=GetObject" alt="ordem-yoo" width="infinity" height="100"/><a>
 <br>
 <br>
 
