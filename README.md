@@ -14,7 +14,7 @@
 ## Github stats
 <br>
 <div>
-<img width= "420" src="https://github-readme-stats.vercel.app/api?username=ordem-yoo&show_icons=true&theme=midnight-purple&count_private=false" />
+<img width= "420" src="https://github-readme-stats.vercel.app/api?username=ordem-yoo&show_icons=true&theme=midnight-purple&count_private=true"/>
 <img width= "420" src="https://github-readme-streak-stats.herokuapp.com/?user=ordem-yoo&" alt="ordem-yoo" />
 </div>
 <br>
