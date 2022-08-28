@@ -6,7 +6,8 @@
 
 <h4> I'm interested in&nbsp; <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> </a> &nbsp; and &nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/></a></h4>
 
-Here's My 
+<h4> Here's My <a href="https://ordem.notion.site/ordem-yoo-f32ac2a8e9954416819de0dcac1089e7"> <img align=absmiddle src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="ordem-yoo" /></a>
+</h4>
 
 <br>
 <br>
@@ -97,9 +98,8 @@ Here's My
 
 <br>
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fordem-yoo&count_bg=%237F3ACE&title_bg=%23555555&icon=flutter.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img align= "right" src="https://komarev.com/ghpvc/?username=ordem-yoo&label=Profile%20views&color=0e75b6&style=flat" alt="ordem-yoo" />
+
 <!--
 **ordem-yoo/ordem-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
