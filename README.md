@@ -6,7 +6,7 @@
 
 <h4> I'm interested in&nbsp; <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> </a> &nbsp; and &nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/></a></h4>
 
-<h4> Here's My <a href="https://ordem.notion.site/ordem-yoo-f32ac2a8e9954416819de0dcac1089e7"> <img align=absmiddle src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="ordem-yoo" /></a>
+<h4> Here's My <a href="https://ordem.notion.site/ordem-yoo-f32ac2a8e9954416819de0dcac1089e7"> <img height="25" align=absmiddle src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="ordem-yoo" /></a></a> <a href="https://instagram.com/ordem.dev"><img align=absmiddle height="25" src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/ordem.dev/"/></a>
 </h4>
 
 <br>
