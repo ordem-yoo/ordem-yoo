@@ -25,7 +25,7 @@
 ## Skill Set & Used Languages
 <br>
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="333">
 
 <h3 align="center">Language</h3>
 <br>
@@ -36,7 +36,7 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img  style="margin: 10px"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" height="50"/></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="333">
 
 <h3 align="center">App Development</h3>
 <br>
@@ -45,7 +45,7 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" title="Android" height="50"/> </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="333">
 
 <h3 align="center">Etc</h3>
 <br>
@@ -53,7 +53,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" title="Arduino" height="50"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" height="50"/> </a>
 <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px"  src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" title="IFTTT - Automation" width="50"  height="50"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase - Backend as a Service"  height="50"/> <a><img src=" " width="55%" /></a></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase - Backend as a Service"  height="50"/>
 <div>
 
 </td></tr></table>  
