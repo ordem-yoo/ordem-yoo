@@ -19,63 +19,46 @@
 <img width= "49.73%" src="https://github-readme-stats.vercel.app/api?username=ordem-yoo&show_icons=true&theme=midnight-purple&count_private=true"/>
 <img width= "49.73%" src="https://github-readme-streak-stats.herokuapp.com/?user=ordem-yoo&" alt="ordem-yoo" />
 </div>
-<br>
-<br>
+<br><br><br><br>
 
 ## Used Languages and Skill Set
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ordem-yoo&show_icons=true&locale=en&layout=compact" alt="ordem-yoo" />
 <br>
-<br>
-
-
-### Languages
-<br>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" title="C" height="40"/> </a>
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> </a> 
-</p>
-
-<br>
-<br>
-
-### Mobile App Development
-<br>
-<p align="left"> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40"/></a>
-</p>
-
-<br>
-<br>
-
-### Backend as a Service
-<br>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"/> </a> 
-</p>
-
-<br>
-<br>
-
-### Automation 
-<br>
-<p align="left"> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" title="IFTTT" width=" 40" height="40"/> </a>
-</p>
-  
-<br>
-<br>
-
-### Other
-<br>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" title="Arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/> </a>
-</p>
-
-<br>
-<br>
-
+<table>
+	<tr>
+		<td><b>Language</b></td>
+		<td> 
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" title="C" height="40"/> </a>&nbsp&nbsp
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> </a> &nbsp&nbsp 
+ <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40"/></a>
+ <td rowspan="4">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+ <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ordem-yoo&show_icons=true&locale=en&layout=compact" height="200" alt="ordem-yoo" /></td>
+</td>
+	</tr>
+	<tr>
+		<td><b>App Development</b></td>
+		<td><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="40" height="40"/> </a> </td>
+	</tr>
+    <tr>
+		<td><b>Backend as a Service</b></td>
+		<td>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"/> </a> 
+        </td>
+	</tr>
+	<tr>
+		<td><b>Other</b></td>
+		<td>
+        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" title="Arduino" width="40" height="40"/> </a>&nbsp&nbsp 
+        <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" title="IFTTT" width=" 40" height="40"/> </a>&nbsp&nbsp
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/> </a></td>
+	</tr>    
+</table>
+<br><br><br><br>
 
 ## etc
 <br>
 
-### Discord
+<li><b>Discord</b></li>
 <br>
 
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
@@ -83,7 +66,7 @@
 <br>
 <br>
 
-### I really like music 🎧
+<li><b>I really like music 🎧</b></li>
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b65g4u0wscp56eq1cm0fuog0f&cover_image=true&theme=novatorem&bar_color=7f3ace&bar_color_cover=false&height=1800)](https://open.spotify.com/user/b65g4u0wscp56eq1cm0fuog0f)
