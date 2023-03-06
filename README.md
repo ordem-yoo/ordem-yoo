@@ -55,9 +55,9 @@
 <br><br><br><br>
 
 ## Commit record
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/ordem-yoo/ordem-yoo/blob/output/snake.svg" alt="Snake animation" />
-<br>
+<br><br>
 
 ## etc
 <br>
