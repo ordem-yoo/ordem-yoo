@@ -1,0 +1,15 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v0.0.8
+        with:
+          github_user_name: ${{ ordem-yoo }}
+          svg_out_path: dist/github-contribution-grid-snake.svg

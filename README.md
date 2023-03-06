@@ -56,7 +56,10 @@
 
 ## Commit record
 <br><br>
-<img src="https://raw.githubusercontent.com/ordem-yoo/ordem-yoo/blob/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://github.com/Platane">
+    <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+</p>
 <br><br>
 
 ## etc
