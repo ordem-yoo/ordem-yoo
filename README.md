@@ -54,16 +54,19 @@
 </table>
 <br><br><br><br>
 
-## etc
+## Commit record
+<br>
+<img src="https://raw.githubusercontent.com/ordem-yoo/ordem-yoo/blob/output/snake.svg" alt="Snake animation" />
 <br>
 
+## etc
+<br>
 <li><b>Discord</b></li>
 <br>
 
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
 
-<br>
-<br>
+<br><br>
 
 <li><b>I really like music 🎧</b></li>
 <br>
@@ -72,11 +75,7 @@
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=b65g4u0wscp56eq1cm0fuog0f&count=3)](https://open.spotify.com/user/b65g4u0wscp56eq1cm0fuog0f)
 
-<br>
-<br>
-
-
-
+<br><br>
 
 <img align= "right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fordem-yoo%2Fordem-yoo%2Fblob%2Fmain%2FREADME.md&count_bg=%237F3ACE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="ordem-yoo" />
 
