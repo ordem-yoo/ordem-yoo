@@ -56,7 +56,7 @@
 
 ## Commit record
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ordem-yoo/ordem-yoo/output/snake.svg">
+<img src="https://raw.githubusercontent.com/ordem-yoo/ordem-yoo/output/snake.svg" alt="github contribution grid snake animation" />
 
 <br><br>
 
