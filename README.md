@@ -68,7 +68,10 @@
 <li><b>Discord</b></li>
 <br>
 
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=654968899405873162)](https://discordapp.com/users/654968899405873162)
+
+
+
 
 <br><br>
 
