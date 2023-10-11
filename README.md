@@ -61,7 +61,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ordem-yoo/ordem-yoo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ordem-yoo/ordem-yoo/output/github-contribution-grid-snake.svg">
 </picture>
-
 <br><br>
 
 ## etc
@@ -69,8 +68,7 @@
 <li><b>Discord</b></li>
 <br>
 
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=654968899405873162)](https://discordapp.com/users/654968899405873162)
-
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
 
 
 
